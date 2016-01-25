@@ -12,3 +12,12 @@ a user login and authentication with a chat box, but the box was not functional.
 
 Upon research, I discovered I need Jquery, and Ajax to complete the app, two programs I am very unfamiliar with, and the time alotted 
 was not enough for me to get to learn them both.
+
+The biggest issue with this project for me was just the time, If I had a week instead of three days, I feel I certainly would 
+have been able to do much more.
+
+I have learned quite a bit from this project, and I am very happy with what I have learned, and this project has tought me that I have so much more to learn. I am much more familiar with php/mysql interactions now and I feel I have learned more from this three day project than a month at school. 
+
+If you have any questions requarding my process, I'll be happy to answer them for you. I posted everything after I had finished which is why I only have one commit per file.
+
+Thanks for the great learning experience!
