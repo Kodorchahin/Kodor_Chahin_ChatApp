@@ -1,0 +1,15 @@
+create database chat_app;
+use chat_app:
+
+create table users(
+user_id int not null auto_increment,
+username varchar(25) unique not null,
+password varchar(25) not null,
+primary key (user_id)
+);
+
+insert into users (username, password) values
+('jeff', '123');
+
+insert into users (username, password) values
+('bob', '456');
